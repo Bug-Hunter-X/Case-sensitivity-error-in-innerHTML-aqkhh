@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to case sensitivity in JavaScript's interaction with HTML elements. The bug occurs due to a simple typo in the `innerHTML` property causing the script to fail without throwing a clear error. The solution illustrates the correct usage.
